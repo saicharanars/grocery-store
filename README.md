@@ -7,7 +7,7 @@ Getting started
 3. pnpm start
 4. open new terminal open frontend/grocery-store
 5.pnpm install
-6.pnpm start
+6.pnpm dev
 7.go to http://localhost:5173/ for react app
 
 currently .env file is shared you can change your dburl inside it i will deactivate that url after few days for demo i included it.
